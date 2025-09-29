@@ -1,0 +1,6 @@
+flask
+flask-restx
+python-dotenv
+pyodbc
+openai
+requests
